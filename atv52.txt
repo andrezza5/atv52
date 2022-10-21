@@ -1,0 +1,12 @@
+Exercício
+
+Banco de dados relacionais: representam e armazenam dados em tabelas e linhas e permite vincular informações de diferentes tabelas por meio do uso de chaves estrangeiras, utilizadas para identificar exclusivamente qualquer parte atômica de dados nessa tabela.
+
+
+Exemplos: MySQL, PostgresSQL e Microsoft Acces
+___________________________________________________________________________
+
+Banco de dados não relacionais: não usa o esquema de tabela de linhas e colunas utilizados em banco de dados tradicionais, elesrepresentam e armazenam dados em tabelas e linhas.  usam um modelo de armazenamento otimizado para os requisitos específicos do tipo de dados que está sendo armazenado
+
+
+Exemplos: MongoDB e Redis
